@@ -1,0 +1,21 @@
+.node {
+    border: solid 1px black;
+    overflow: hidden;
+    position: absolute;
+    text-indent: 2px;
+    font-size: 10px;
+    background: lightblue;
+}
+.legend {
+    font-size: 12px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+}
+.color-box {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-right: 5px;
+}
